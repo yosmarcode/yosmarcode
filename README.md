@@ -29,6 +29,9 @@
 ### Pagina Oficial [yosmarhinestroza.dev](https://yosmarhinestroza.dev)
 
 ### Video mas reciente [canal de Youtube](https://youtube.com/@yosmarcode?sub_confirmation=1)
+<a href='https://youtu.be/dYjssF6CsyQ?si=qGS-QmuWsvCkFye2' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/dYjssF6CsyQ/hqdefault.jpg' alt='git pull request constribuir en proyectos' />
+</a>
 <a href='https://youtu.be/HxJMAdsvJdY' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/HxJMAdsvJdY/hqdefault.jpg' alt='Creando #api sin necesidad de base de datos con json-server by  @yosmarcode ' />
 </a>
@@ -46,8 +49,6 @@
   <img width='30%' src='https://i.ytimg.com/vi/Pe3NDLlgeQ4/hqdefault.jpg' alt='Error 404 en astro' />
 </a>
 
-<a href='https://youtu.be/kDw_Y4-vupU' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/kDw_Y4-vupU/hqdefault.jpg' alt='Mi peor experiencia como desarrollador de software 😢 #chile' />
-</a>
+
 
 
