@@ -29,6 +29,9 @@
 ### Pagina Oficial [yosmarhinestroza.dev](https://yosmarhinestroza.dev)
 
 ### Video mas reciente [canal de Youtube](https://youtube.com/@yosmarcode?sub_confirmation=1)
+<a href='https://youtu.be/MJRJ0MnQ4xw?si=lpdqQPO0X45Ldtbm' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/MJRJ0MnQ4xw/hqdefault.jpg' alt='#reactjs 19 esta mas cerca de lo que pensamos' />
+</a>
 <a href='https://youtu.be/dYjssF6CsyQ?si=qGS-QmuWsvCkFye2' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/dYjssF6CsyQ/hqdefault.jpg' alt='git pull request constribuir en proyectos' />
 </a>
@@ -45,9 +48,7 @@
 <a href='https://youtu.be/N8k-s0_JVuc' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/N8k-s0_JVuc/hqdefault.jpg' alt='#ai Rows El fin de excel llega este #2024   @yosmarcode' />
 </a>
-<a href='https://youtu.be/Pe3NDLlgeQ4' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/Pe3NDLlgeQ4/hqdefault.jpg' alt='Error 404 en astro' />
-</a>
+
 
 
 
