@@ -50,6 +50,23 @@
 </a>
 
 
+### Publicaciones en dev.to [https://dev.to/yosmarcode]
+<div align="left" >
+   <ul>
+      <li>
+         <a href='https://dev.to/yosmarcode/reactjs-19-esta-mas-cerca-de-lo-que-pensamos-4n12' target='_blank'>
+           📄 #reactjs 19 esta mas cerca de lo que pensamos
+         </a>
+      </li>
+       <li>
+         <a href='https://dev.to/yosmarcode/git-pull-request-constribuir-en-proyectos-github-4nnb' target='_blank'>
+           📄 git pull request constribuir en proyectos #github
+         </a>
+      </li>
+   </ul>
+</div>
+
+
 
 
 
