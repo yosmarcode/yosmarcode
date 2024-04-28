@@ -31,7 +31,7 @@
 ### Video mas reciente [canal de Youtube](https://youtube.com/@yosmarcode?sub_confirmation=1)
 
 <a href='https://youtu.be/l129AsQQiPQ?si=JtcT0SccaOoOnJqE' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/l129AsQQiPQ/default.jpg' alt='Como protejo mis rutas de Nextjs de forma fácil y sin librería externa' />
+  <img width='30%' src='https://i.ytimg.com/vi/l129AsQQiPQ/hqdefault.jpg' alt='Como protejo mis rutas de Nextjs de forma fácil y sin librería externa' />
 </a>
 
 <a href='https://youtu.be/MJRJ0MnQ4xw?si=lpdqQPO0X45Ldtbm' target='_blank'>
