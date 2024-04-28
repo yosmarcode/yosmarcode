@@ -29,6 +29,11 @@
 ### Pagina Oficial [yosmarhinestroza.dev](https://yosmarhinestroza.dev)
 
 ### Video mas reciente [canal de Youtube](https://youtube.com/@yosmarcode?sub_confirmation=1)
+
+<a href='https://youtu.be/l129AsQQiPQ?si=JtcT0SccaOoOnJqE' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/l129AsQQiPQ/default.jpg' alt='Como protejo mis rutas de Nextjs de forma fácil y sin librería externa' />
+</a>
+
 <a href='https://youtu.be/MJRJ0MnQ4xw?si=lpdqQPO0X45Ldtbm' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/MJRJ0MnQ4xw/hqdefault.jpg' alt='#reactjs 19 esta mas cerca de lo que pensamos' />
 </a>
@@ -45,9 +50,7 @@
   <img width='30%' src='https://i.ytimg.com/vi/jdu9LRIT230/hqdefault.jpg' alt='githubpages como  desplegar nuestros proyectos este 2024 by  @yosmarcode ' />
 </a>
 
-<a href='https://youtu.be/N8k-s0_JVuc' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/N8k-s0_JVuc/hqdefault.jpg' alt='#ai Rows El fin de excel llega este #2024   @yosmarcode' />
-</a>
+
 
 
 ### Publicaciones en dev.to [https://dev.to/yosmarcode]
