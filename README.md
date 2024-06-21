@@ -30,6 +30,10 @@
 
 ### Video mas reciente [canal de Youtube](https://youtube.com/@yosmarcode?sub_confirmation=1)
 
+<a href='https://www.youtube.com/playlist?list=PL4R2eB1FIsYASLGp3GYNRn7tGT0ESCy33' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/sDINNOxQUe4/hqdefault.jpg' alt='Construye tu servidor web con software de código abierto ' />
+</a>
+
 <a href='https://youtu.be/OjGnjKL7egg?si=P1pywMfnJsAeYbZR' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/OjGnjKL7egg/hqdefault.jpg' alt='protege tus aplicaciones en #vercel  🔐' />
 </a>
@@ -48,9 +52,7 @@
 <a href='https://youtu.be/dYjssF6CsyQ?si=qGS-QmuWsvCkFye2' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/dYjssF6CsyQ/hqdefault.jpg' alt='git pull request constribuir en proyectos' />
 </a>
-<a href='https://youtu.be/HxJMAdsvJdY' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/HxJMAdsvJdY/hqdefault.jpg' alt='Creando #api sin necesidad de base de datos con json-server by  @yosmarcode ' />
-</a>
+
 
 
 
